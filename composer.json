@@ -18,9 +18,11 @@
         "illuminate/support": "^5.0|^6.0|^7.0",
         "laravel/framework": ">=7.x"
     },
-    "autoload": {
-        "psr-4": {
-
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DropoutVentures\\LaravelAddressValidation"
+            ],
         }
-    }
+    },
 }
