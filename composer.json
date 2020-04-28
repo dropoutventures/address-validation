@@ -22,7 +22,7 @@
         "laravel": {
             "providers": [
                 "DropoutVentures\\LaravelAddressValidation"
-            ],
+            ]
         }
-    },
+    }
 }
