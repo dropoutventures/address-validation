@@ -1,6 +1,6 @@
 <?php
 
-namespace DropoutVentures\LaravelAddressValidation;
+namespace Dropoutventures\LaravelAddressValidation;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Validator;
