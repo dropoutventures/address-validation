@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Dropoutventures\\LaravelAddressValidation\\": "src/"
-        },
+        }
     },
     "require": {
         "php": ">=5.5.9",
