@@ -6,7 +6,7 @@ use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Http;
 
-class LaravelAddressValidationServiceProvider extends ServiceProvider {
+class AddressGeocodeServiceProvider extends ServiceProvider {
 
 	/**
 	 * Register the application services.
