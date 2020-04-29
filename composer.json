@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "DropoutVentures\\LaravelAddressValidation\\AddressGeocodeServiceProvider::class"
+                "DropoutVentures\\LaravelAddressValidation\\AddressGeocodeServiceProvider"
             ]
         }
     }
